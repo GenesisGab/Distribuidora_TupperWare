@@ -10,35 +10,35 @@ El programa Main.class fue elaborado en java y cumple con el requerimiento de la
 
       •	costoUnitario: almacena el costo por unidad del producto
 
-•	precioDeVenta: almacena el precio de venta del producto
+      •	precioDeVenta: almacena el precio de venta del producto
 
-•	totalAPagar: almacena el total a pagar
+      •	totalAPagar: almacena el total a pagar
 
-•	totalCobradoSinDescuento: almacena el total a cobrar sin descuento
+      •	totalCobradoSinDescuento: almacena el total a cobrar sin descuento
 
-•	totalConDescuento: almacena el total a cobrar con el descuento
+      •	totalConDescuento: almacena el total a cobrar con el descuento
 
-•	IVA: almacena el impuesto al valor agregado (IVA)
+      •	IVA: almacena el impuesto al valor agregado (IVA)
 
-•	totalIVAPorUnidad: almacena el total del IVA sobre el cobro final
+      •	totalIVAPorUnidad: almacena el total del IVA sobre el cobro final
 
-•	tipoDeDescuento: almacena el tipo de descuento según cantidad vendida 
+      •	tipoDeDescuento: almacena el tipo de descuento según cantidad vendida 
 
-•	totalConDescuento: almacena el total del producto con su descuento
+      •	totalConDescuento: almacena el total del producto con su descuento
 
-•	ganancias: almacena la ganancia obtenida por la venta
+      •	ganancias: almacena la ganancia obtenida por la venta
 
 El programa realiza los siguientes cálculos:
 
-•	Calcula el costo total del producto
+      •	Calcula el costo total del producto
 
-•	Calcula el impuesto a pagar
+      •	Calcula el impuesto a pagar
 
-•	Total cobrado sin descuento
+      •	Total cobrado sin descuento
 
-•	Total con descuento
+      •	Total con descuento
 
-•	Calcula la ganancia obtenida
+      •	Calcula la ganancia obtenida
 
 Indica el tipo de descuento que se realizó (ninguno, 10%, 15% o 25%)
 
@@ -54,7 +54,7 @@ Muestra en pantalla los siguientes datos al usuario:
 
                   Venderse a: Q 60.0
         Impuesto establecido:   0.12
-Impuesto por unidad comprada: Q 7.199999999999999
+ Impuesto por unidad comprada: Q 7.199999999999999
 
 -------------------------------------------------
 
