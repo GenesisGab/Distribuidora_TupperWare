@@ -2,13 +2,13 @@
 
 El programa Main.class fue elaborado en java y cumple con el requerimiento de la empresa Tupperware, este programa maneja la información en las siguientes variables:
 
-•	nombreEmpresa: almacena el nombre de la empresa
+      •	nombreEmpresa: almacena el nombre de la empresa
 
-•	CantidadProducto: almacena la cantidad del producto en existencia
+      •	CantidadProducto: almacena la cantidad del producto en existencia
 
-•	cantidadProductoVendido: almacena la cantidad del producto vendido
+      •	cantidadProductoVendido: almacena la cantidad del producto vendido
 
-•	costoUnitario: almacena el costo por unidad del producto
+      •	costoUnitario: almacena el costo por unidad del producto
 
 •	precioDeVenta: almacena el precio de venta del producto
 
