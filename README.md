@@ -40,6 +40,8 @@ El programa realiza los siguientes cálculos:
 
 •	Calcula la ganancia obtenida
 
+Indica el tipo de descuento que se realizó (ninguno, 10%, 15% o 25%)
+
 Muestra en pantalla los siguientes datos al usuario:
 
       EMPRESA: DISTRIBUIDORA TUPPERWARE
