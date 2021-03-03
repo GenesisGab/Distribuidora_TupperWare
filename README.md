@@ -7,23 +7,37 @@ El programa Main.class fue elaborado en java y cumple con el requerimiento de la
 •	CantidadProducto: almacena la cantidad del producto en existencia
 
 •	cantidadProductoVendido: almacena la cantidad del producto vendido
+
 •	costoUnitario: almacena el costo por unidad del producto
+
 •	precioDeVenta: almacena el precio de venta del producto
+
 •	totalAPagar: almacena el total a pagar
+
 •	totalCobradoSinDescuento: almacena el total a cobrar sin descuento
+
 •	totalConDescuento: almacena el total a cobrar con el descuento
+
 •	IVA: almacena el impuesto al valor agregado (IVA)
+
 •	totalIVAPorUnidad: almacena el total del IVA sobre el cobro final
+
 •	tipoDeDescuento: almacena el tipo de descuento según cantidad vendida 
-•	totalConDescuento: almacena el total del producto con su descuento	
+
+•	totalConDescuento: almacena el total del producto con su descuento
+
 •	ganancias: almacena la ganancia obtenida por la venta
 
 El programa realiza los siguientes cálculos:
 
 •	Calcula el costo total del producto
+
 •	Calcula el impuesto a pagar
+
 •	Total cobrado sin descuento
+
 •	Total con descuento
+
 •	Calcula la ganancia obtenida
 
 Muestra en pantalla los siguientes datos al usuario:
